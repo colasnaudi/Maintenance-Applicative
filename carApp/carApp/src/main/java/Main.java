@@ -1,4 +1,4 @@
-public class Application {
+public class Main {
     public static void main(String[] args) {
         Voiture maVoiture = new Voiture("Sedan", "Bleu");
         Conducteur moi = new Conducteur("John", 20);
